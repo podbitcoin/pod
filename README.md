@@ -1,14 +1,32 @@
-POD Payment Coin is a modern peer-to-peer digital currency.  POD is built on the revolutionary Bitcoin-Litecoin codebase and offers high levels of security, privacy, stability and speed. 
+Payment Coin - Bootstrapping a distributed computational economy with peer-to-peer electronic cash.
 
-POD Payment Coin enables anyone on the planet to send money instantly, without the involvement of any third parties. The decentralised cryptocurrency revolution cuts out the banking middle-men and puts the power back in the hands of the people (all 7 billion+).
+Payment Coin (POD) is an attempt to create a new payment system instead of bank and credit cards that were designed in the 1950s! The system uses its own digital currency, the POD.
+
+Payment Coin is a free open source peer-to-peer network based digital currency employing the fundamentals of Bitcoin; and employs a simplified variant of Scrypt (Litecoin, Dogecoin) as its proof of work (POW).
+
+Payment Coin aims to expand the cryptocurrency ecosystem to improve distributed scalability, short/long-term reputation and privacy. The project features seven core modules and is a community driven initiative (no ICO):
+
+1. Electronic Cash (Payment Coin)
+2. Distributed Ledger (Blockchain)
+3. Distributed Marketplace (Amazon/eBay, Subs, Defi, NFT)
+4. Distributed Reputation Mechanism (Short-term, Long-term)
+5. Distributed Scalability (Beyond Visa/Mastercard)
+6. Enhanced Pseudo Anonymous Privacy (Public, Private)
+7. Crypto Simplification for Mass Adoption (UI/UX)
+
+The coin supply limit is set to 84 million coins and an average blocktime of 2.5 minutes; making it a fast and secure digital currency.
+
+Payment Coin is unique within the crypto ecosystem, in that the roadmap is fully based on the writings and research of Bitcoin founder Satoshi Nakamoto. Every roadmap item is driven by verifiable and documented research in the area of peer-to-peer digital cash, distributed file sharing and economic game theory.
 
 
-Total coins = 84,000,000
-Coin Type: PoW
-Algorithm: Scrypt
-Block Time: 2.5 min
-Block Reward: 50
-Block Halving Rate: 840,000
+Key 2021 Roadmap
+✅Electronic Cash
+✅Distributed Ledger
+---Distributed Marketplace (Crypto Powered Amazon+eBay)
+---Distributed Reputation Mechanism  (Short-term / Long-term)
+---Distributed Scalability (Beyond VISA)
+---Enhanced Pseudo Anonymous Privacy
+---Crypto Simplification for Mass Adoption
 
-Reboot and say hello to the POD Payment Coin: www.podbitcoin.com
+The project has been community managed and trusted since 2016.  --> -> Visit us and find out more: www.podbitcoin.com
 
